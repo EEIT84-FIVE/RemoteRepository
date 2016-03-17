@@ -3,11 +3,11 @@
   <display-name>Proj01Web</display-name>
   
   <servlet>
-  	<servlet-name>ServletX</servlet-name>
+  	<servlet-name>ServletY</servlet-name>
   	<servlet-class>controller.Servlet4</servlet-class>
   </servlet>
   <servlet-mapping>
-  	<servlet-name>ServletX</servlet-name>
+  	<servlet-name>ServletY</servlet-name>
   	<url-pattern>/demo.view</url-pattern>
   </servlet-mapping>
   
