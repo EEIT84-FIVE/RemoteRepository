@@ -7,22 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-
 	<h1><a>servlet1</a></h1>
 	<h1><a>servlet2</a></h1>
 	<h1><a>servlet3</a></h1>
-	<h1><a href="/Proj01Web/demo.view">servlet4</a></h1>
-	<h1><a>servlet5</a></h1>
-	<p>
-	
-	◢███◣      ＿＿＿＿＿＿＿＿＿＿＿＿ 
-	◤   ≡      ▌   ／      Boyo出巡了！     ︳
-	|─⊙-⊙-|                ︳
-	|  皿　   | ╲ 不跪下的，炸你全家！  ︳
-	◣     ︶  ◢ 
-	e04
-	</p>
-	
-	
+	<h1><a href="/Proj01Web/demo1.view">servlet4</a></h1>
+	<h1><a href="/Proj01Web/demo2.view">servlet5</a></h1>
 </body>
 </html>
