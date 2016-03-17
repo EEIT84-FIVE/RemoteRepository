@@ -11,6 +11,15 @@
   	<url-pattern>/demo.view</url-pattern>
   </servlet-mapping>
   
+   <servlet>
+  	<servlet-name>Servlet5</servlet-name>
+  	<servlet-class>controller.Servlet5</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>Servlet5</servlet-name>
+  	<url-pattern>/demo.view</url-pattern>
+  </servlet-mapping>
+  
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
     <welcome-file>index.htm</welcome-file>
